@@ -1,0 +1,9 @@
+Order details:
+
+Name: John Travolta
+Phone Number: 0745387613
+Product: Samsung S10+
+Price: 4800.0 RON
+Amount: 5
+Total price: 24000.0RON
+Date: 2019/04/16 12:42:36

@@ -1,0 +1,9 @@
+Order details:
+
+Name: Osvath Daniel
+Phone Number: 0767834515
+Product: Acer
+Price: 2456.0 RON
+Amount: 2
+Total price: 4912.0RON
+Date: 2019/04/16 20:05:00

@@ -1,0 +1,9 @@
+Order details:
+
+Name: Razvan Danila
+Phone Number: 0767834513
+Product: Samsung S10+
+Price: 4800.0 RON
+Amount: 3
+Total price: 14400.0RON
+Date: 2019/04/16 12:10:02
